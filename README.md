@@ -44,7 +44,7 @@
 
 ### ⭐ Избранные проекты
 
-- [32-bit File Scanner](https://github.com/Undetectedcoder/32bit) - Продвинутый сканер файлов на C# с поддержкой плагинов
+- [32-bit File Scanner](https://github.com/Undetectedcoder/32bit) - Простой сканер файлов на C# 
 
 
 
