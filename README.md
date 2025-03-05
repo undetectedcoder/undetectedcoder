@@ -1,4 +1,4 @@
-## 👋 Привет! Я [Ваше Имя] ([Ваш GitHub Никнейм])
+## 👋 Привет! Я Alex aka Undetectedcoder
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Passionate%20Coder;Always%20Learning;Open%20Source%20Enthusiast&center=true&size=30)](https://git.io/typing-svg)
 
